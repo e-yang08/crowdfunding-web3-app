@@ -4,9 +4,6 @@ Crowdfunding Web3 App
 This web application is created based on a Udemy Course "[Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain"](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
 
 
-**Table of Contents**
-[TOC]
-
 Environment Set up
 ---
 Run the following commands in the order specified below:
