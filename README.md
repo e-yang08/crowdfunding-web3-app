@@ -11,3 +11,23 @@ Run the following commands in the order specified below:
 2. npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider fs-extra
 3. npm install next react react-dom semantic-ui-css semantic-ui-react
 4. npm install next-routes --legacy-peer-deps
+
+Demo
+---
+- Demo 1
+    - Create a new campaign
+![](https://i.imgur.com/8LaCB82.gif)
+
+- Demo 2
+    - Check details of campaign 
+    - Contribute to campaign
+![](https://i.imgur.com/CKBe2AB.gif)
+
+- Demo 3
+    - Create a request to use donation by campaigners
+![](https://i.imgur.com/dy4uTuF.gif)
+
+- Demo 4
+    - Show approve process of request by donors
+![](https://i.imgur.com/ht9qjeK.gif)
+
