@@ -16,18 +16,22 @@ Demo
 ---
 - Demo 1
     - Create a new campaign
+
 ![](https://i.imgur.com/8LaCB82.gif)
 
 - Demo 2
     - Check details of campaign 
     - Contribute to campaign
+ 
 ![](https://i.imgur.com/CKBe2AB.gif)
 
 - Demo 3
     - Create a request to use donation by campaigners
+
 ![](https://i.imgur.com/dy4uTuF.gif)
 
 - Demo 4
     - Show approve process of request by donors
+   
 ![](https://i.imgur.com/ht9qjeK.gif)
 
