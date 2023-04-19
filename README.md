@@ -11,6 +11,8 @@ Run the following commands in the order specified below:
 2. npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider fs-extra
 3. npm install next react react-dom semantic-ui-css semantic-ui-react
 4. npm install next-routes --legacy-peer-deps
+5. npm start node server.js
+    --> access http://localhost:3000/ to check application
 
 Demo
 ---
